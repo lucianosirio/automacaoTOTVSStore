@@ -1,0 +1,39 @@
+
+==============================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++   QUESTONÁRIO   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+==============================================================================================================================
+
+1. Como você abordaria o teste de software em uma equipe ágil e qual seria o papel do
+QA nesse contexto?
+    R: Abordaria de uma forma em que a mentalidade e as práticas sejam pregadas para que toda Squad trabalhe em conjunto. No qual tenham ciência que todos são responsáveis pelo teste.
+    Nesse contexto o papel do QA, além da realização dos teste, é semelhante ao de um mentor, no qual obtendo, uma visão abrangente, identificando o melhor framework a ser uitlizado para aplicação do teste, a melhor forma de realiza-lo, utilização das melhores técnicas para que o time venha apresentar a melhor produtividade e uma melhora contínua.
+
+
+2. Como você conduziria os testes de regressão em um software que está em
+desenvolvimento ativo?
+    R: Conduziria de forma automatização de acordo com o roteiro de teste existente, assim garantindo que a nova versão, se for o caso, não afetou as funcionalidades anteriores, caso contrário a automação irá identicar o erro, no qual será possível corrilo-lo e não será transmitido ao cliente final.
+
+
+3. Como você avalia a eficácia dos testes exploratórios em um projeto de
+desenvolvimento de software?
+    R: O teste exploratório traz um eficácia quando é realizado de uma forma estruturada que traga valor para Organização, time ou produto.
+
+
+4. Como você garantiria que um software é de alta qualidade antes de ser lançado em
+Produção?
+    R: Após ter realizado o plano de teste com assertividade e sua documentação.
+
+
+5. Como você gerencia e documenta os defeitos encontrados durante os testes de
+software?
+    R: Realizando o registro do ocorrido anexando print e/ou gravações e abertura de demanda para correção. Seguindo com os demais testes, mas acompanhando o clico de teste do bug corrido.
+
+
+6. Como você avalia a eficácia de um processo de testes em um projeto de
+desenvolvimento de software? Quais são os principais indicadores de desempenho
+que você utilizaria para isso?
+    R: Através da mensuração de dos KPI's praticados. Os indicadores que utilizaria para realizar essa mensuração seriam: Cobertura de teste (end-to-end); 
+    Tendência de defeitos; 
+    Economia na identificação de Bug; 
+    Percentual de teste automatizados; e 
+    Defeitos ocorridos em produção.

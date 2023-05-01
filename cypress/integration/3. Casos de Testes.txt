@@ -1,0 +1,51 @@
+
+==============================================================================================================================
++++++++++++++++++++++++++++++++++++++++++   CASOS DE TESTES - TOTVS STORE   ++++++++++++++++++++++++++++++++++++++++++++++++++
+==============================================================================================================================
+
+CASO 1
+    1.1 - ACESSO AO SITE DA LOJA VIRTUAL DA TOTVS
+        - Dado aberta "HOME PAGE" da loja virtual da Totvs quando digitado a URL https://dev.totvs.store/, então deverá apresentar uma página com os treinamentos em destaques, produtos TOTVS, produtos parceiros e os menus "Entrar" e "Criar conta", localizados na parte superior do lado direito. 
+    Status: "Passou"
+
+CASO 2
+    2.1 - ENTRA NA ÁREA DO USUÁRIO
+        - Dado aberta a página para inserir as credenciais para acesso a área do usuário, quando realizado o clique no menu "Entrar", então inserir o login e senha e clicar em entrar. 
+    Status: "Falhou"
+
+CASO 3
+    3.1 - CRIAR CONTA
+        3.1.1 - NOVO CADASTRO
+            - Dado aberta a página "NOVO CADASTRO", quando realizado o clique no menu "Criar Conta", então inserir o CPF, Celular p/ validação, marcar a opção para autorizar envio de SMS, marcar a opção para contato através do WhatsApp e clicar no botão "PRÓXIMA". 
+            Status:Passou
+        3.1.2 - DADOS CADASTRAIS
+            - Dado aberta a página "DADOS CADASTRAIS", quando realizado clique no botão "PRÓXIMA" na página "NOVO CADASTRO", então preencher os demais dados pessoais e em "INFORMAÇÕES" DE ACESSO criar uma senha de acordo com a classe exigida pela aplicação.
+            Status: Passou
+        3.1.3 - INSERIR CÓDIGO 
+            - Dado criação da senha, quando realizado preenchimento no botão "PRÓXIMA" na página "NOVO CADASTRO", então preencher os demais dados pessoais e criar uma senha de acordo com a classe exigida pela aplicação.
+            Status: Falhou
+    Status: "Falhou"
+
+CASO 4
+    4.1 - TESTE DE LISTA SUSPENSA
+        - Dados aberto a "HOME PAGE" com a quantidade a adquirir, quando digitado a URL https://dev.totvs.store/ ou realizar o clique no logo da loja virtual, então abaixo do logo e barra de pesquisa apresentará uma barra de menu das categoria de produtos disponibilizados pela loja e ao posicionar o mouse sobre um dos menus deverá expandir uma lista suspensa dos produtos relacionados aquela categoria.
+    O que não foi feito:
+        Clicar sobre um dos produto abertos na lista suspensa, pois há produtos sem o link do conteúdo do curso.
+    Status: "Passou"
+
+CASO 5
+     5.1 - ADQUIRIR UM PRODUTO
+        5.1.1 - CATÁLOGO DE TREINAMENTOS
+            - Dado retorno a Home Page da loja virtual da Totvs com os treinamentos em destaques, produtos TOTVS, produtos parceiros, quando clicado no elemento com logo da TOTVS e "sem" logar na área de cliente, então escolher um treinamento e clicar no botão "Ver mais".
+            Status: Passou
+        5.1.2 - VER MAIS
+            - Dado a página com todas informações do produto escolhido, quando realizado o clique no botão "VER MAIS" na Home Page no catálogo de treinamentos, então inserir a quantidade de treinamentos que deseja adquirir e clicar no botão "ADICIONAR AO CARRINHO".
+            Status: Passou
+        5.1.3 - FECHAR PEDIDO
+            - Dados aberto a página "CARRINHO DE COMPRAS" com a quantidade a adquirir, quando realizado clique no botão "ADICIONAR AO CARRINHO" na página "VER MAIS", então clicar no botão "FECHAR PEDIDO" e retornará para página de autenticação.
+            Status: Passou
+        O que não foi feito:
+            Inserir o código de desconto e clicar no botão "Aplicar" para que desconto seja concedido. 
+            Inserir o email e senha para acessar a área do cliente após fechar o pedido.           
+    Status: "Passou"
+

@@ -1,0 +1,52 @@
+
+============================================================================================================================
+++++++++++++++++++++++++++++++++++++++++++   PLANO DE TESTE - TOTVS STORE   ++++++++++++++++++++++++++++++++++++++++++++++++
+============================================================================================================================
+
+1. NOME: 
+	- Usabilidade do Site TOTVS STORE
+
+2. OBJETIVO: 
+	- Teste de Funcionalidade
+
+3. RESUMO:
+	- Será verificado a usabilidade do site Totvs Store, quanto a facilidade em acessar o site da loja, área do cliente, criar conta, adquirir um treinamento, enviar para o carrinho de compras e fechar pedido. 
+
+4. PESSOAS ENVOLVIDASs:
+	- Luciano Sirio (QA)
+
+5. FUNCIONALIDADES OU MÓDULOS A SEREM TESTADOS:
+	- Acessar site;
+	- Acessar área do usuário;
+	- Criar conta;
+	- Comprar produto
+
+6. LOCAL DO TESTE:
+	- Será realizado em ambiente real;
+	- Realizado na máquina pessoal do testador.
+
+7. RECURSOS NECESSÁRIOS:
+	- Acesso a Internet;
+	- Máquina com acesso a internet;
+	- Dados fictícios;
+	- Aplicação Cypress para automação.
+
+8. CRITÉRIOS USADOS:
+	- Serão realizados 5 casos para testes;
+	- Serão avaliados com status de "Passou", "Falhou", "Bloqueou".
+
+9. RISCOS:
+	- Falta de conexão com a internet;
+	- Falta de conexão com o servidor;
+	- Dados inconsistentes.
+
+10. COMO O RESULTADO DOS TESTES SERÃO DIVULGADOS:
+	- Através do Status do "Casos de Teste" realizados.
+        os Status serão os seguintes:
+		- Passou
+		- Falhou
+		- Bloqueado
+
+11. CRONOGRAMA:
+	- Data inicio: 28/04/2023
+	- Data Fim: 03/05/2023
