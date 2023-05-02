@@ -16,12 +16,12 @@ desenvolvimento ativo?
 
 3. Como você avalia a eficácia dos testes exploratórios em um projeto de
 desenvolvimento de software?
-    R: O teste exploratório traz um eficácia quando é realizado de uma forma estruturada que traga valor para Organização, time ou produto.
+    R: Identifico um teste exploratório eficácia quando é realizado de uma forma estruturada que traga valor para Organização, time ou produto. Outras características que definem o teste exploratório como eficaz é que não deve demandar muito tempo em sua execução, depende da habilidade/conhecimento do testador, técnicas aplicadas, como critério de aceite, descoberta de novos bugs, monitoramento da cobertura de teste, entre outros.
 
 
 4. Como você garantiria que um software é de alta qualidade antes de ser lançado em
 Produção?
-    R: Após ter realizado o plano de teste com assertividade e sua documentação.
+    R: Com certificação de que as regras de negócios estivessem alinhadas com software, assim como o atendimento dos requisitos solicitados, que para execução dos testes fossem utilizadas ferramentas com linguagens adequada e estáveis, integração entre os códigos utilizados, correção efetiva dos bugs identificados em período de teste, inclusive na realização de teste de regressão.
 
 
 5. Como você gerencia e documenta os defeitos encontrados durante os testes de
