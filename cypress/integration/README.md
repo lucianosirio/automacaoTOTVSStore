@@ -62,17 +62,11 @@ O teste iniciará automaticamente.
 - [GitHub](https://github.com/)
 <br><br>
 
-## 🌎 Para visualizar clique no ícone abaixo:
-<br>
-
-## [📚 clique aqui](https://github.com/lucianosirio/automacaoTOTVSStore) 
-
-<br>
-
 ## 👤 Autor:
 
 ## Luciano Sirio
+<br>
 
-
+## Para visualizar o Projeto [clique aqui📚](https://github.com/lucianosirio/automacaoTOTVSStore) 
 
 
